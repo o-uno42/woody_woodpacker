@@ -1,0 +1,7 @@
+resources.tgz
+/resources/
+/sample
+/test_cat
+/test_ls
+/woody_woodpacker
+*.o
