@@ -5,3 +5,4 @@ resources.tgz
 /test_ls
 /woody_woodpacker
 *.o
+/ELF.md
